@@ -16,7 +16,7 @@ def load_csv_data():
     assignments = []
     
     try:
-        # File handling technique to read and parse structured data [cite: 82]
+        # File handling technique to read and parse structured data
         with open(filename, mode='r', encoding='utf-8') as file:
             reader = csv.DictReader(file)
             for row in reader:
