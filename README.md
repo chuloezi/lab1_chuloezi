@@ -26,4 +26,4 @@ Then it creates a brand new, empty grades.csv file so the environment is ready f
 ### Logging: 
 It records every action taken (time, date, and filenames) into a file called organizer.log.
 ### How to run it
-Write this "bash organizer.sh" to run it
+Write this in your terminal"bash organizer.sh" to run it or write this "./organizer.sh"
